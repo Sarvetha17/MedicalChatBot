@@ -53,7 +53,7 @@ Before launching the application, it's essential to install the required depende
 *Linux:*
 
 bash
-python3 -m <img width="476" alt="Screenshot 2023-09-21 at 11 08 36 AM" src="https://github.com/Sarvetha17/MedicalChatBot/assets/117157855/f1b704b6-af13-46d2-ac53-f79497857388">
+python3 -m 
 venv venv
 source venv/bin/activate
 pip install flask torch nltk numpy sklearn pandas matplotlib
